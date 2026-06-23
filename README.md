@@ -1,5 +1,5 @@
 # ScreenShotAI
-AI program that sends you the answers through computers notification system.
+AI program that sends you the answers through computers notification system for asnwering quizzes.
 
 !DISCLAIMER: this version uses google gemini 2.5 flash and only works for the macOS.
 
