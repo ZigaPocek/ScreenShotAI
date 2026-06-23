@@ -10,4 +10,4 @@ AI program that sends you the answers through computers notification system.
 
 ### 2. Set Up your API key ###
 
-``` export GEMINI_API_KEY="your_actual_gemini_api_key"
+``` export GEMINI_API_KEY="your_actual_gemini_api_key"```
